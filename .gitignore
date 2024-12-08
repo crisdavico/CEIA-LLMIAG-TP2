@@ -1,0 +1,4 @@
+# Evitar subir claves API
+.env
+__pycache__/
+chatbot_venv/
